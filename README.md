@@ -4,21 +4,6 @@ A web-based **Employee Management System** built with **React.js (frontend)** an
 
 ---
 
-## 🧾 Table of Contents
-
-- [Project Overview]
-- [Features]
-- [Tech Stack]
-- [Folder Structure]
-- [Installation]
-- [Screenshots]
-- [Learning Outcomes]
-- [Limitations]
-- [Scope of Improvement]
-- [Author]
-
----
-
 ## 📌 Project Overview
 
 This project is a part of a 12-week internship training program. The system is built for internal use in an organization to:
@@ -33,7 +18,7 @@ This project is a part of a 12-week internship training program. The system is b
 ## 🚀 Features
 
 - Employer and employee login
-- Role-based access (Employer vs Employee)
+- Role-based access
 - View employee profiles
 - Task assignment and task listing
 - Team and contact information sections
@@ -54,9 +39,8 @@ This project is a part of a 12-week internship training program. The system is b
 **Backend:**  
 - Node.js  
 - Express.js  
-- SQL (using XAMPP + phpMyAdmin)  
-- Multer (for file uploads)  
-- Body-parser, CORS
+- SQL (using XAMPP + phpMyAdmin)   
+- CORS
 
 ---
 
